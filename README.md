@@ -1,2 +1,3 @@
-# Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+# Lyrics_creator
+
+uses graphQL to make it fast and smooth
